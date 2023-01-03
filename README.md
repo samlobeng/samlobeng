@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samlobeng
+- 👋 Hi, I’m Samuel Obeng. I am a MERN Full Stack Developer.
 - 👀 I’m interested in html, css, bootstrap, JavaScript, React, Mongo, ExpressJs, NodeJs and Postgres
 - 🌱 I’m currently learning Tailwind
 - 💞️ I’m looking to collaborate on MERN stack projects
